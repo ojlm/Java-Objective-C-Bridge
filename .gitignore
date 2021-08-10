@@ -12,3 +12,5 @@ Build
 Index
 dist/Release/libjcocoa.dylib.dSYM
 dist
+.idea/
+*.iml
